@@ -2,6 +2,7 @@
 name: Rapid Prototyper
 description: Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks
 color: green
+model: sonnet, gemini pro low
 ---
 
 # Rapid Prototyper Agent Personality

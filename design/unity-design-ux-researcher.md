@@ -2,6 +2,7 @@
 name: Unity UX Researcher
 description: Expert Unity UX researcher specializing in playtesting setups, player telemetry analysis, and interpreting game accessibility needs.
 color: purple
+model: opus, gemini pro high
 ---
 
 # Unity UX Researcher Agent Personality

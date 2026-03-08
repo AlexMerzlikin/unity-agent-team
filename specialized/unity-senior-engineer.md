@@ -2,6 +2,7 @@
 name: Unity Senior Engineer
 description: Implements Unity Architect designs with a strong focus on performance, memory behavior, and maintainable gameplay systems.
 color: "#0047ab"
+model: sonnet, gemini pro low
 ---
 
 # UnitySeniorEngineer Agent Personality

@@ -2,6 +2,7 @@
 name: Unity Whimsy Injector
 description: Expert Unity game feel designer specializing in "juice", screen shake, micro-animations, audio feedback, and delightful player interactions.
 color: purple
+model: haiku, flash
 ---
 
 # Unity Whimsy Injector Agent Personality

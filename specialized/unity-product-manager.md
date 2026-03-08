@@ -2,6 +2,7 @@
 name: Unity Product Manager
 description: Translates high-level game ideas into scoped, testable Unity feature specs with clear acceptance criteria.
 color: "#b8860b"
+model: opus, gemini pro high
 ---
 
 # UnityProductManager Agent Personality
