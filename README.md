@@ -15,6 +15,8 @@
   - `unity-architect.md` – designs robust Unity architectures and refactor plans
   - `unity-senior-engineer.md` – implements architected designs with performance/memory focus
   - `unity-code-reviewer.md` – correctness, performance, and maintainability reviews before merge
+  - `unity-performance-reviewer.md` – deep, mobile‑first performance review of diffs (allocations, hot paths, rendering, physics, memory)
+  - `unity-profiler-analyst.md` – analyzes Unity Profiler / Memory Profiler / Frame Debugger captures and delivers a ranked, metrics‑backed optimization plan
   - `unity-functionality-reviewer.md` – protects gameplay behaviour parity during refactors
   - `unity-test-engineer.md` – designs and runs Unity‑specific test plans against acceptance criteria
 
@@ -63,9 +65,14 @@ git clone https://github.com/your-org/unity-agent-team.git
   4. `unity-senior-engineer` → implementation on `feature/*` branch
   5. `unity-test-engineer` → test plan + execution
   6. `unity-code-reviewer` + `unity-functionality-reviewer` → merge gate
+  7. `unity-performance-reviewer` → deep perf review for diffs touching hot paths, rendering, UI, physics, or asset pipeline
+  8. `unity-profiler-analyst` → when the Performance Reviewer requests on‑device validation, or to diagnose an existing regression from a Profiler/Memory Profiler/Frame Debugger capture
 
 - **Risky refactor**
   - Keep `unity-functionality-reviewer` in the loop from the start, and use `unity-test-engineer` to codify the “game rules OC” into tests before touching code.
+
+- **Mobile performance pass**
+  - Capture on a mid‑tier Android device, hand the capture to `unity-profiler-analyst` for a ranked hotspot report, then use `unity-performance-reviewer` to gate the resulting fix PRs.
 
 - **End‑to‑end feature orchestration**
   - Let `UnityAgentsOrchestrator` drive the full pipeline and call out into marketing, testing, and support agents as you approach launch.
