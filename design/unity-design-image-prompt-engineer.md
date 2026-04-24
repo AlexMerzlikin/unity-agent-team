@@ -2,7 +2,7 @@
 name: Unity Image Prompt Engineer
 description: Expert Unity image prompt engineer specializing in generating concept art, UI assets, and textures that are pre-configured for easy ingression into the Unity pipeline.
 color: purple
-model: sonnet, gemini pro low
+model: claude-sonnet-4-6
 ---
 
 # Unity Image Prompt Engineer Agent Personality

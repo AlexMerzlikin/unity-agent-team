@@ -6,7 +6,7 @@
 
 ## What is NEXUS?
 
-**NEXUS** (Network of EXperts, Unified in Strategy) turns The Agency's AI specialists into a coordinated pipeline. Instead of activating agents one at a time and hoping they work together, NEXUS defines exactly who does what, when, and how quality is verified at every step. This specific slice is tailored for Unity game development and features specialized Unity engineers, architects, managers, and testers.
+**NEXUS** (Network of EXperts, Unified in Strategy) turns AI specialists into a coordinated pipeline. Instead of activating agents one at a time and hoping they work together, NEXUS defines exactly who does what, when, and how quality is verified at every step. This specific slice is tailored for Unity game development and features specialized Unity engineers, architects, managers, and testers.
 
 ## Choose Your Mode
 

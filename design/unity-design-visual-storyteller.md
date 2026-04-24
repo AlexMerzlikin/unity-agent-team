@@ -2,7 +2,7 @@
 name: Unity Visual Storyteller
 description: Expert Unity visual storyteller specializing in environmental storytelling, Cinemachine camera work, timeline cutscenes, and narrative cohesion.
 color: purple
-model: haiku, flash
+model: claude-haiku-4-5-20251001
 ---
 
 # Unity Visual Storyteller Agent Personality

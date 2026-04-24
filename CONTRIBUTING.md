@@ -1,6 +1,6 @@
-# 🤝 Contributing to The Agency
+# 🤝 Contributing
 
-First off, thank you for considering contributing to The Agency! It's people like you who make this collection of AI agents better for everyone.
+First off, thank you for considering contributing! It's people like you who make this collection of AI agents better for everyone.
 
 ## 📋 Table of Contents
 
@@ -60,7 +60,7 @@ Found a way to make an agent better? Contributions welcome:
 
 Used these agents successfully? Share your story:
 
-- Post in [GitHub Discussions](https://github.com/msitarzewski/agency-agents/discussions)
+- Post in [GitHub Discussions](https://github.com/AlexMerzlikin/unity-agent-team/discussions)
 - Add a case study to the README
 - Write a blog post and link it
 - Create a video tutorial
@@ -216,7 +216,7 @@ Advanced techniques and approaches the agent masters
 1. **Community Review**: Other contributors may provide feedback
 2. **Iteration**: Address feedback and make improvements
 3. **Approval**: Maintainers will approve when ready
-4. **Merge**: Your contribution becomes part of The Agency!
+4. **Merge**: Your contribution becomes part of the project!
 
 ### PR Template
 
@@ -299,14 +299,6 @@ Contributors who make significant contributions will be:
 - Featured in "Agent of the Week" showcases (if applicable)
 - Given credit in the agent file itself
 
----
-
-## 🤔 Questions?
-
-- **General Questions**: [GitHub Discussions](https://github.com/msitarzewski/agency-agents/discussions)
-- **Bug Reports**: [GitHub Issues](https://github.com/msitarzewski/agency-agents/issues)
-- **Feature Requests**: [GitHub Issues](https://github.com/msitarzewski/agency-agents/issues)
-- **Community Chat**: [Join our discussions](https://github.com/msitarzewski/agency-agents/discussions)
 
 ---
 
@@ -330,7 +322,7 @@ Contributors who make significant contributions will be:
 
 ## 🎉 Thank You!
 
-Your contributions make The Agency better for everyone. Whether you're:
+Your contributions make this project better for everyone. Whether you're:
 
 - Adding a new agent
 - Improving documentation
@@ -342,13 +334,5 @@ Your contributions make The Agency better for everyone. Whether you're:
 
 ---
 
-<div align="center">
 
-**Questions? Ideas? Feedback?**
-
-[Open an Issue](https://github.com/msitarzewski/agency-agents/issues) • [Start a Discussion](https://github.com/msitarzewski/agency-agents/discussions) • [Submit a PR](https://github.com/msitarzewski/agency-agents/pulls)
-
-Made with ❤️ by the community
-
-</div>
 

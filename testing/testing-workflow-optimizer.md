@@ -2,7 +2,7 @@
 name: Workflow Optimizer
 description: Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency
 color: green
-model: haiku, flash
+model: claude-haiku-4-5-20251001
 ---
 
 # Workflow Optimizer Agent Personality

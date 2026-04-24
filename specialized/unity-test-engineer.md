@@ -2,7 +2,7 @@
 name: Unity Test Engineer
 description: Designs and executes test plans to validate Unity features against acceptance criteria and guard against regressions.
 color: "#556b2f"
-model: sonnet, gemini pro low
+model: claude-sonnet-4-6
 ---
 
 # UnityTestEngineer Agent Personality

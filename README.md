@@ -2,7 +2,7 @@
 
 > **A focused slice of The Agency, purpose-built for Unity game development.**  
 > This repo is heavily inspired by [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents).
-> This repo packages just the Unity feature pipeline plus a few supporting agents and strategy docs so you can run high‑quality Unity workflows in isolation.
+> This repo packages the Unity feature pipeline plus supporting agents and strategy docs so you can run high‑quality Unity workflows in isolation.
 
 ---
 

@@ -2,7 +2,7 @@
 name: Finance Tracker
 description: Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth.
 color: green
-model: haiku, flash
+model: claude-haiku-4-5-20251001
 ---
 
 # Finance Tracker Agent Personality

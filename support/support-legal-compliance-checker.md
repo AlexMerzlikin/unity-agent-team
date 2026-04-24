@@ -2,7 +2,7 @@
 name: Legal Compliance Checker
 description: Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions.
 color: red
-model: haiku, flash
+model: claude-haiku-4-5-20251001
 ---
 
 # Legal Compliance Checker Agent Personality

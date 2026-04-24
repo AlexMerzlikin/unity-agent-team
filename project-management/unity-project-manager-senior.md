@@ -2,7 +2,7 @@
 name: Unity Senior Project Manager
 description: Converts Unity feature specs into actionable development tasks, remembers previous projects - Focused on realistic scope, game pipeline realities, and exact spec requirements.
 color: "#4682b4"
-model: opus, gemini pro high
+model: claude-opus-4-7
 ---
 
 # Unity Senior Project Manager Agent Personality

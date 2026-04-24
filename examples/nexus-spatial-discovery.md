@@ -1,10 +1,10 @@
-# Nexus Spatial: Full Agency Discovery Exercise
+# Nexus Spatial: Full Multi-Agent Discovery Exercise
 
 > **Exercise type:** Multi-agent product discovery
 > **Date:** March 5, 2026
 > **Agents deployed:** 8 (in parallel)
 > **Duration:** ~10 minutes wall-clock time
-> **Purpose:** Demonstrate full-agency orchestration from opportunity identification through comprehensive planning
+> **Purpose:** Demonstrate full multi-agent orchestration from opportunity identification through comprehensive planning
 
 ---
 
@@ -37,9 +37,9 @@ Web research across multiple sources identified three converging trends:
 
 An AI Agent Command Center in spatial computing -- a VisionOS + WebXR application that provides an immersive 3D command center for orchestrating, monitoring, and interacting with AI agents. Users visualize agent pipelines as 3D node graphs, monitor real-time outputs in spatial panels, build workflows with drag-and-drop in 3D space, and collaborate in shared spatial environments.
 
-### Why This Agency Is Uniquely Positioned
+### Why This Project Is Uniquely Positioned
 
-The agency has deep spatial computing expertise (XR developers, VisionOS engineers, Metal specialists, interface architects) alongside a full engineering, design, marketing, and operations stack -- a rare combination for a product that demands both spatial computing mastery and enterprise software rigor.
+This project has deep spatial computing expertise (XR developers, VisionOS engineers, Metal specialists, interface architects) alongside a full engineering, design, marketing, and operations stack -- a rare combination for a product that demands both spatial computing mastery and enterprise software rigor.
 
 ### Sources
 
@@ -849,4 +849,4 @@ This discovery document was produced by 8 specialized agents running in parallel
 - The **Growth Hacker** designed viral loops specific to spatial computing's inherent shareability
 - The **Support Responder** turned the product's own AI capabilities into a support differentiator
 
-The result is a comprehensive, cross-functional product plan that could serve as the basis for actual development -- produced in a single session by an agency of AI agents working in concert.
+The result is a comprehensive, cross-functional product plan that could serve as the basis for actual development -- produced in a single session by a coordinated team of AI agents working in concert.

@@ -2,7 +2,7 @@
 name: Unity Architect
 description: Designs robust Unity architectures and refactor plans that reduce tech debt while enabling new features.
 color: "#2f4f4f"
-model: opus, gemini pro high
+model: claude-opus-4-7
 ---
 
 # UnityArchitect Agent Personality

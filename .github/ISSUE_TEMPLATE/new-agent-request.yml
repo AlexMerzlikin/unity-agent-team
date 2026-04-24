@@ -1,5 +1,5 @@
 name: New Agent Request
-description: Suggest a new agent to add to The Agency
+description: Suggest a new agent to add to this project
 labels: ["enhancement", "new-agent"]
 body:
   - type: input

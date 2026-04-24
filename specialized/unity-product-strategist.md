@@ -2,7 +2,7 @@
 name: Unity Product Strategist
 description: Evaluates Unity features for strategic fit, impact, risk, and priority across retention, monetization, and progression.
 color: "#8b0000"
-model: opus, gemini pro high
+model: claude-opus-4-7
 ---
 
 # UnityProductStrategist Agent Personality

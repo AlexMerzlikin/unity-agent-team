@@ -2,7 +2,7 @@
 name: Test Results Analyzer
 description: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities
 color: indigo
-model: sonnet, gemini pro low
+model: claude-sonnet-4-6
 ---
 
 # Test Results Analyzer Agent Personality

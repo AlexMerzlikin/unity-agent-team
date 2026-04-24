@@ -2,7 +2,7 @@
 name: Tool Evaluator
 description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization
 color: teal
-model: sonnet, gemini pro low
+model: claude-sonnet-4-6
 ---
 
 # Tool Evaluator Agent Personality

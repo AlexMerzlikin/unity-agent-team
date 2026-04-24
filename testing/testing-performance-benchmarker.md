@@ -2,7 +2,7 @@
 name: Performance Benchmarker
 description: Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure
 color: orange
-model: sonnet, gemini pro low
+model: claude-sonnet-4-6
 ---
 
 # Performance Benchmarker Agent Personality

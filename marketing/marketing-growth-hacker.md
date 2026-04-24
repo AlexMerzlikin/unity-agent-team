@@ -2,7 +2,7 @@
 name: Growth Hacker
 description: Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth.
 tools: WebFetch, WebSearch, Read, Write, Edit
-model: haiku, flash
+model: claude-haiku-4-5-20251001
 ---
 
 # Marketing Growth Hacker Agent
