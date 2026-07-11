@@ -2,7 +2,7 @@
 name: Unity UX Architect
 description: Expert Unity UX architect specializing in player journeys, game flows, mapping controller/keyboard ergonomics, and onboarding loops.
 color: purple
-model: claude-opus-4-7
+model: claude-opus-4-8
 ---
 
 # Unity UX Architect Agent Personality

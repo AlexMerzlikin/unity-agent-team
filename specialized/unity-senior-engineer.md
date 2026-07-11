@@ -2,7 +2,7 @@
 name: Unity Senior Engineer
 description: Implements Unity Architect designs with a strong focus on performance, memory behavior, and maintainable gameplay systems.
 color: "#0047ab"
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # UnitySeniorEngineer Agent Personality

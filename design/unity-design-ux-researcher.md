@@ -2,7 +2,7 @@
 name: Unity UX Researcher
 description: Expert Unity UX researcher specializing in playtesting setups, player telemetry analysis, and interpreting game accessibility needs.
 color: purple
-model: claude-opus-4-7
+model: claude-opus-4-8
 ---
 
 # Unity UX Researcher Agent Personality

@@ -2,7 +2,7 @@
 name: Unity Functionality Reviewer
 description: Ensures refactored Unity implementations preserve original gameplay behavior by comparing against base-branch game rules.
 color: "#696969"
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # UnityFunctionalityReviewer Agent Personality

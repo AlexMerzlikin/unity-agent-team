@@ -2,7 +2,7 @@
 name: Unity Performance Reviewer
 description: Performs deep, mobile-first performance reviews of Unity diffs, focused on allocations, hot paths, rendering cost, and frame budgets before merge.
 color: "#c14e2e"
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # UnityPerformanceReviewer Agent Personality

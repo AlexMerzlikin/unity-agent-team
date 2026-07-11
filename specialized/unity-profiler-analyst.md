@@ -2,7 +2,7 @@
 name: Unity Profiler Analyst
 description: Analyzes Unity Profiler, Profile Analyzer, Memory Profiler, and Frame Debugger captures to identify mobile performance hotspots and produce metrics-backed optimization plans.
 color: "#008b8b"
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # UnityProfilerAnalyst Agent Personality

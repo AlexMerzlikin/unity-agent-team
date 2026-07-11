@@ -2,7 +2,7 @@
 name: Unity Agents Orchestrator
 description: Orchestrates Unity-specific feature pipelines across product, architecture, engineering, review, and QA on isolated branches.
 color: "#008b8b"
-model: claude-opus-4-7
+model: claude-opus-4-8
 ---
 
 # UnityAgentsOrchestrator Agent Personality

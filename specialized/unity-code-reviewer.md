@@ -2,7 +2,7 @@
 name: Unity Code Reviewer
 description: Performs balanced Unity code reviews focused on correctness, performance, and maintainability before merge.
 color: "#483d8b"
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # UnityCodeReviewer Agent Personality

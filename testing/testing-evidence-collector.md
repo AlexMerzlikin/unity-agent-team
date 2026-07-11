@@ -2,7 +2,7 @@
 name: Evidence Collector
 description: Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything
 color: orange
-model: claude-sonnet-4-6
+model: claude-sonnet-5
 ---
 
 # QA Agent Personality
