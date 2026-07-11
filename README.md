@@ -24,6 +24,7 @@
   - `engineering/engineering-rapid-prototyper.md` – for Unity game backends/prototypes that support your Unity stack
 
 - **Shared playbooks & strategy** (in `strategy/`):
+  - `coordination/agent-operating-contract.md` - state, context, tool request, human approval, error, and handoff contract for reliable agents
   - `QUICKSTART.md` – how to run the NEXUS pipeline
   - `EXECUTIVE-BRIEF.md` – C‑suite overview of the NEXUS model
   - `nexus-strategy.md` + `playbooks/` + `runbooks/` – full multi‑phase orchestration doctrine you can adapt to Unity projects
@@ -99,4 +100,3 @@ NewRepo/
 ```
 
 Use this repo as a **Unity‑focused slice** of the main `agency-agents` project: it keeps the Unity team self‑contained while still giving you the supporting agents and strategy material you’ll likely want around a real Unity project.
-

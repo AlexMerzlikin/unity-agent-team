@@ -114,6 +114,7 @@ Once validated, Unity Architect plans the integration into the game client.
 | **Phase Playbooks** | Step-by-step guides for all phases | `strategy/playbooks/*.md` |
 | **Activation Prompts** | Ready-to-use agent prompts | `strategy/coordination/agent-activation-prompts.md` |
 | **Handoff Templates** | Standardized handoff formats | `strategy/coordination/handoff-templates.md` |
+| **Agent Operating Contract** | State, context, tool request, human approval, error, and handoff contract | `strategy/coordination/agent-operating-contract.md` |
 
 ---
 

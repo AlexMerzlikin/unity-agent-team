@@ -4,6 +4,8 @@
 
 ---
 
+All handoffs should follow `strategy/coordination/agent-operating-contract.md`: carry `AgentRunState`, include only bounded context, request one clear next action, and summarize recoverable errors instead of forwarding raw noise.
+
 ## 1. Standard Handoff Template
 
 Use for any agent-to-agent work transfer.
@@ -21,6 +23,24 @@ Use for any agent-to-agent work transfer.
 | **Priority** | [Critical / High / Medium / Low] |
 | **Timestamp** | [YYYY-MM-DDTHH:MM:SSZ] |
 
+## Agent State Snapshot
+```json
+{
+  "run_id": "[stable run ID]",
+  "mode": "[NEXUS-Full / NEXUS-Sprint / NEXUS-Micro]",
+  "phase": "Phase [N] - [Phase Name]",
+  "feature": "[feature name]",
+  "branch": "[feature branch]",
+  "current_task": "[current task]",
+  "attempt": [N],
+  "status": "[in_progress / waiting_for_human / blocked / complete]",
+  "artifacts": ["[path or link]"],
+  "decisions": ["[decision already made]"],
+  "blockers": ["[active blocker, if any]"],
+  "next_action": "[one requested next action]"
+}
+```
+
 ## Context
 **Project**: [Project name]
 **Current State**: [What has been completed so far — be specific]
@@ -29,6 +49,12 @@ Use for any agent-to-agent work transfer.
 - [file/path/2] — [what it contains]
 **Dependencies**: [What this work depends on being complete]
 **Constraints**: [Technical, timeline, or resource constraints]
+
+## Context Window
+**Included**:
+- [Current spec / architecture / test result / compact error]
+**Excluded**:
+- [Stale phase history / unrelated reports / raw logs already summarized]
 
 ## Deliverable Request
 **What is needed**: [Specific, measurable deliverable description]
@@ -42,6 +68,16 @@ Use for any agent-to-agent work transfer.
 **Must pass**: [Specific quality criteria for this deliverable]
 **Evidence required**: [What proof of completion looks like]
 **Handoff to next**: [Who receives the output and what format they need]
+
+## Runtime Control
+**Next action**: [Exactly one action requested from the receiving agent]
+**Approval needed**: [None / product decision / scope change / risky behavior change / release approval / paid action / credential access / destructive operation]
+**Recoverable errors**:
+- **Failed step**: [Step name]
+- **Symptom**: [Short symptom]
+- **Evidence**: [Test/log/screenshot reference]
+- **Likely cause**: [Best current diagnosis]
+- **Recovery action**: [Specific retry or escalation action]
 ```
 
 ---
