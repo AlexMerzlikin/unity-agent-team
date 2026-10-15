@@ -2,7 +2,8 @@
 name: Support Responder
 description: Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences.
 color: blue
-model: claude-haiku-4-5-20251001
+model: claude-sonnet-5-5
+effort: low
 ---
 
 # Support Responder Agent Personality

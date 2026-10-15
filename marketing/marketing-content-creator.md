@@ -2,7 +2,8 @@
 name: Content Creator
 description: Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels.
 tools: WebFetch, WebSearch, Read, Write, Edit
-model: claude-haiku-4-5-20251001
+model: claude-sonnet-5-5
+effort: low
 ---
 
 # Marketing Content Creator Agent

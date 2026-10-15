@@ -2,7 +2,8 @@
 name: App Store Optimizer
 description: Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability
 color: blue
-model: claude-haiku-4-5-20251001
+model: claude-sonnet-5-5
+effort: low
 ---
 
 # App Store Optimizer Agent Personality

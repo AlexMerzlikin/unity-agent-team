@@ -2,7 +2,7 @@
 name: Unity Architect
 description: Designs robust Unity architectures and refactor plans that reduce tech debt while enabling new features.
 color: "#2f4f4f"
-model: claude-opus-4-8
+model: claude-opus-5-5
 ---
 
 # UnityArchitect Agent Personality

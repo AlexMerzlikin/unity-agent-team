@@ -2,7 +2,8 @@
 name: Instagram Curator
 description: Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement.
 color: "#E4405F"
-model: claude-haiku-4-5-20251001
+model: claude-sonnet-5-5
+effort: low
 ---
 
 # Marketing Instagram Curator

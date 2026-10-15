@@ -2,7 +2,8 @@
 name: Unity Brand Guardian
 description: Expert Unity brand guardian ensuring visual consistency across all environments, UI, shaders, and post-processing volumes. Protects the game's core stylistic pillars and art direction.
 color: purple
-model: claude-haiku-4-5-20251001
+model: claude-sonnet-5-5
+effort: low
 ---
 
 # Unity Brand Guardian Agent Personality
